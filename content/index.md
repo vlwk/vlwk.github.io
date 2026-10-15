@@ -2,11 +2,7 @@
 title: About me
 ---
 
-Hi! I'm Victor Loh, a software engineer at GovTech Singapore.
-
-I graduated from the University of Cambridge with a BA in Computer Science and previously completed a security engineering internship at Apple.
-
-Outside of tech, I enjoy playing bridge.
+Hi! I'm Victor Loh, software engineer at GovTech Singapore and avid bridge player. I hold a BA in Computer Science from the University of Cambridge.
 
 ---
 
